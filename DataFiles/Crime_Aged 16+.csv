@@ -1,0 +1,40 @@
+Sex of victim,Victim acquainted with suspect,Relationship to principal suspect,                                         2013-2014,2014-2015_count,2015-2016_count,2016-2017_count,2017-2018_count,2018-2019_count,2019-2020_count ,2020-2021_count,2021-2022_count,2022-2023_count,2023-2024_count
+Male,Victim acquainted with suspect,Son or daughter,3,1,2,1,1,1,0,0,1,0,0
+Male,Victim acquainted with suspect,Parent,7,11,12,5,8,4,13,14,20,7,7
+Male,Victim acquainted with suspect,Partner/ex-partner,16,11,17,13,8,15,9,9,17,13,8
+Male,Victim acquainted with suspect,Other family  ,8,9,7,10,7,9,11,15,14,10,10
+Male,Victim acquainted with suspect,Total domestic homicides ,34,32,38,29,24,29,33,38,52,30,25
+Male,Victim acquainted with suspect,Friend/acquaintance,104,85,92,108,113,107,107,102,91,105,93
+Male,Victim acquainted with suspect,Other ,46,40,41,40,38,52,48,31,44,29,30
+Male,Victim acquainted with suspect,Total ,184,157,171,177,175,188,188,171,187,164,148
+Male,Victim not known to be acquainted with suspect,Stranger,65,56,61,69,104,68,119,66,71,81,79
+Male,Victim not known to be acquainted with suspect,Relationship not known,22,17,26,35,35,24,39,40,78,46,72
+Male,Victim not known to be acquainted with suspect,No suspect charged ,45,58,89,190,141,105,113,85,110,91,89
+Male,Victim not known to be acquainted with suspect,Total ,132,131,176,294,280,197,271,191,259,218,240
+Male,Total,Total,316,288,347,471,455,385,459,362,446,382,388
+Female,Victim acquainted with suspect,Son or daughter,4,3,0,1,1,1,1,3,3,0,1
+Female,Victim acquainted with suspect,Parent,18,13,11,3,13,13,18,11,19,12,17
+Female,Victim acquainted with suspect,Partner/ex-partner,84,82,76,81,66,89,67,59,60,60,58
+Female,Victim acquainted with suspect,Other family  ,9,4,9,5,9,7,2,5,3,5,7
+Female,Victim acquainted with suspect,Total domestic homicides ,115,102,96,90,89,110,88,78,85,77,83
+Female,Victim acquainted with suspect,Friend/acquaintance,10,9,15,14,14,16,17,9,21,21,4
+Female,Victim acquainted with suspect,Other ,7,8,10,3,9,5,5,9,3,3,8
+Female,Victim acquainted with suspect,Total ,132,119,121,107,112,131,110,96,109,101,95
+Female,Victim not known to be acquainted with suspect,Stranger,9,10,4,8,25,10,22,9,15,12,7
+Female,Victim not known to be acquainted with suspect,Relationship not known,2,4,7,4,6,4,3,4,6,4,1
+Female,Victim not known to be acquainted with suspect,No suspect charged ,16,29,23,34,38,47,36,25,43,39,35
+Female,Victim not known to be acquainted with suspect,Total ,27,43,34,46,69,61,61,38,64,55,43
+Female,Total,Total,159,162,155,153,181,192,171,134,173,156,138
+All victims,Victim acquainted with suspect,Son or daughter,7,4,2,2,2,2,1,3,4,0,1
+All victims,Victim acquainted with suspect,Parent,25,24,23,8,21,17,31,25,39,19,24
+All victims,Victim acquainted with suspect,Partner/ex-partner,100,93,93,94,74,104,76,68,77,73,66
+All victims,Victim acquainted with suspect,Other family  ,17,13,16,15,16,16,13,20,17,15,17
+All victims,Victim acquainted with suspect,Total domestic homicides ,149,134,134,119,113,139,121,116,137,107,108
+All victims,Victim acquainted with suspect,Friend/acquaintance,114,94,107,122,127,123,125,111,112,126,97
+All victims,Victim acquainted with suspect,Other ,53,48,51,43,47,57,53,40,47,32,38
+All victims,Victim acquainted with suspect,Total ,316,276,292,284,287,319,299,267,296,265,243
+All victims,Victim not known to be acquainted with suspect,Stranger,74,66,65,77,129,78,141,75,86,93,86
+All victims,Victim not known to be acquainted with suspect,Relationship not known,24,21,33,39,41,28,42,44,84,50,73
+All victims,Victim not known to be acquainted with suspect,No suspect charged ,61,87,112,224,179,152,149,110,153,130,124
+All victims,Victim not known to be acquainted with suspect,Total ,159,174,210,340,349,258,332,229,323,273,283
+All victims,Total,Total ,475,450,502,624,636,577,631,496,619,538,526
